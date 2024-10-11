@@ -1,0 +1,5 @@
+console.log('Hi I am Peyal Hasan')
+console.log('Hi I am ' + 7)
+console.log(9+10)
+console.log(9+ ' Is it a number')
+console.log('String' +'string')
