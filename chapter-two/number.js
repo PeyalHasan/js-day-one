@@ -19,3 +19,10 @@ console.log(d)
 console.log(isNaN(c))
 console.log(isNaN(a))
 console.log(isNaN(NaN))
+// Hexadecimal 
+var hex = 0xff
+console.log(hex)
+
+// Octal Number 
+var oct = 0746
+console.log(oct)
